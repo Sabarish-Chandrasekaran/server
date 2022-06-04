@@ -11,7 +11,8 @@ const pizzas = [
     ],
     category: "veg",
     image: "/images/margherita.jpg",
-    description: "Classic delight with 100% real mozzarella cheese",
+    description:
+      "Classic delight with 100% real mozzarella cheese,topped with extra cheese",
   },
   {
     name: "Farmhouse",
